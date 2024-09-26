@@ -1,14 +1,15 @@
-# Linux-IPC-Shared-memory
+
 # Ex06-Linux IPC-Shared-memory
 
-## Name:Loshini.G
-## Register Number:212223220051
-## Department:IT
+### Date:
+### Name:Loshini.G
+### Register Number:212223220051
+### Department:IT
 
-# AIM:
+## AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -22,13 +23,13 @@ Write the C Program using Linux Process API - Shared Memory
 
 Execute the C Program for the desired output. 
 
-# PROGRAM:
+## PROGRAM:
 
 #### Developed By:Loshini.G
 #### Reg No:212223220051
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-```
+```c
 //shm.c
 
 #include<unistd.h> 
